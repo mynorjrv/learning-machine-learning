@@ -2,3 +2,8 @@ ipykernel
 numpy
 tensorflow
 matplotlib
+pandas
+seaborn
+scikit-learn
+shap
+lime
