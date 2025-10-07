@@ -1,6 +1,7 @@
 ipykernel
 numpy
-tensorflow
+# tensorflow
+tensorflow-cpu
 matplotlib
 pandas
 seaborn
