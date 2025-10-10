@@ -12,3 +12,6 @@ sympy
 
 plotly
 nbformat
+
+pyyaml
+h5py
